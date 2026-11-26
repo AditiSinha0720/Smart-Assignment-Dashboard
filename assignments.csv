@@ -1,0 +1,7 @@
+id,assignment,subject,deadline,priority,status,notes,demo,type,hours,completed_on
+2,Statistics worksheet,Statistics,2026-11-25,High,Completed,,0,Assignment,1.0,2026-11-25
+3,Case study,Management,2026-11-28,Medium,Pending,,1,Assignment,1.0,
+4,SQL exercise,Database Systems,2026-11-30,Medium,Completed,,1,Assignment,1.0,
+5,English reflection,English,2026-12-05,Low,Pending,,1,Assignment,1.0,
+1,Python lab,Python Programming,2026-11-26,High,Pending,,0,Project,2.0,
+6,Binary Search Tree,DSA,2026-11-27,High,Pending,,0,Lab,1.5,
